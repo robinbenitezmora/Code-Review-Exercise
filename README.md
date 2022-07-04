@@ -1,62 +1,31 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Robin's Portfolio
 
-# Project Name
-
-> Description the project.
-
+>
+This exercise try to upgrade my abilities as a developera by practicing our new knowledge about the code reviewer job.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5.
+- CSS.
+- Visual Studio Code.
+- GitHub.
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
 
 ### Install
+Feel free to clone the repository at this URL: https://github.com/robinbenitezmora/Code-Review-Exercise
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Any suggestion is welcome.
 
 ## Authors
 
-👤 **Author1**
+ **Robin Benitez Mora**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+GitHub: https://github.com/robinbenitezmora
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+LinkedIn: https://www.linkedin.com/in/robin-benitez-mora-manizales/
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +33,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-I thank Microverse for allowing me to use their template.
+
+-Thanks to my coding partners and code reviewers for your good advices to improve my code.
 
 ## 📝 License
 
